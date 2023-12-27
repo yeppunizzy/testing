@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sf/QwOHdXUmeYOjUMttxBkQ62cZq9Wgi92CvCnIuL1E0qtkw7x4EjOQuH+VH9e8alLSpHzrvwVCTuXiubuJcaA==",
+  "success": true,
+  "projectFilePath": "/Users/mymac/Downloads/Starlight/Starlight.csproj",
+  "expectedPackageFiles": [
+    "/Users/mymac/.nuget/packages/fluorinefx.client/1.4.7/fluorinefx.client.1.4.7.nupkg.sha512",
+    "/Users/mymac/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/mymac/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
+    "/Users/mymac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/mymac/.nuget/packages/websocketsharp-netstandard/1.0.1/websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

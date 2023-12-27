@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\49151\\Desktop\\profile\\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\49151\\Desktop\\profile\\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\49151\\Desktop\\profile\\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj",
+        "projectName": "Starlight.exe",
+        "projectPath": "C:\\Users\\49151\\Desktop\\profile\\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj",
+        "packagesPath": "C:\\Users\\49151\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\49151\\Desktop\\profile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\49151\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FluorineFx.Client": {
+              "target": "Package",
+              "version": "[1.4.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "WebSocketSharp-netstandard": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

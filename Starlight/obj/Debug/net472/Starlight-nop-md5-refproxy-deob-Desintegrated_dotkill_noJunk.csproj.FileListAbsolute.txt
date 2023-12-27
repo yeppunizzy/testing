@@ -1,0 +1,13 @@
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj.AssemblyReference.cache
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj.SuggestedBindingRedirects.cache
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj.CoreCompileInputs.cache
+C:\Users\49151\Desktop\profile\bin\Debug\net472\Starlight.exe.exe.config
+C:\Users\49151\Desktop\profile\bin\Debug\net472\Starlight.exe.exe
+C:\Users\49151\Desktop\profile\bin\Debug\net472\Starlight.exe.pdb
+C:\Users\49151\Desktop\profile\bin\Debug\net472\FluorineFx.Client.dll
+C:\Users\49151\Desktop\profile\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\49151\Desktop\profile\bin\Debug\net472\websocket-sharp.dll
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight-nop-md5-refproxy-deob-Desintegrated_dotkill_noJunk.csproj.CopyComplete
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight.exe.exe
+C:\Users\49151\Desktop\profile\obj\Debug\net472\Starlight.exe.pdb
